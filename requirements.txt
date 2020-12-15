@@ -1,5 +1,2 @@
-haha
-a
-a
-a
-a
+pytest==3.0.6
+Flask==1.1.1
